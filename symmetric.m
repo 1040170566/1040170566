@@ -16,5 +16,9 @@ else
     end
 end
 
-% if nargout==2
-%     
+if nargout==2
+    c=cell(factorial(L),1);
+    for j=1:factorial(L)
+        c(j)={cycle_pre(array,p(j,:))};
+    end
+end
