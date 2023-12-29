@@ -2,7 +2,7 @@
 - 👀 I’m interested in physics
 - 🌱 I’m currently learning Matlab
 - 💞️ I’m looking to collaborate on studying
-- 📫 How to reach me: e-mail:2019302080067@whu.edu.cn
+- 📫 How to reach me: e-mail:wangxiaodm@qq.com
 
 <!---
 1040170566/Matlab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
